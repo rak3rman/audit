@@ -1,0 +1,4 @@
+system,code,value,min,median,max
+CPT,99213,Established Patient Office Visit (Level 3),180,220,260
+CPT,80053,Comprehensive Metabolic Panel,45,65,85
+CPT,71020,Chest X-Ray, 2 Views,95,115,135

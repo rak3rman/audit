@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@api/phenomlexper": "file:.api/apis/phenomlexper",
+    "@types/uuid": "^10.0.0",
+    "dotenv": "^17.2.1",
+    "openai": "^5.15.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "typescript": "^5.9.2"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/script.js",
+    "dev": "tsc && node dist/script.js",
+    "test-gpt": "tsc && node dist/gpt-chat.js",
+    "test-medical": "tsc && node dist/phenoml-medical-codes.js",
+    "analyze-bill": "tsc && node dist/medical-bill-analyzer.js",
+    "test-fallback": "tsc && node dist/test-fallback.js"
+  }
+}

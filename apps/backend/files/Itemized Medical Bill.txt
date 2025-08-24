@@ -1,0 +1,28 @@
+HOSPITAL NAME: Riverside General Hospital
+PATIENT NAME: John Doe
+ACCOUNT NUMBER: 123456789
+DATE OF SERVICE: 06/15/2025
+
+----------------------------------------
+ITEMIZED STATEMENT OF CHARGES
+----------------------------------------
+Room & Board - Semi-Private (2 days)       $ 3,600.00
+Emergency Room Visit (Level 4)             $ 1,200.00
+IV Fluids                                  $   250.00
+Ibuprofen 200mg (per tablet) x4            $    80.00
+Chest X-Ray                                $   650.00
+CT Scan - Abdomen                          $   850.00
+Blood Test Panel (CBC, CMP, Lipids)        $   900.00
+Specialist Consultation (Cardiology)       $ 1,200.00
+Attending Physician Daily Visit (2 days)   $ 1,600.00
+Nursing Services                           $ 1,000.00
+Medical Supplies (IV Kit, Syringes, etc.)  $   270.00
+
+----------------------------------------
+TOTAL CHARGES:                             $12,600.00
+INSURANCE PAYMENTS:                        $ 4,200.00
+ADJUSTMENTS:                               $   350.00
+
+----------------------------------------
+PATIENT BALANCE:                           $ 8,050.00
+----------------------------------------

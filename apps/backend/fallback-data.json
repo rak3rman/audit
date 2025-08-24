@@ -1,0 +1,204 @@
+{
+    "fallbackResponses": [
+        {
+            "serviceType": "room_board",
+            "units": 2,
+            "billedAmount": 3600,
+            "typicalCost": {
+                "min": 1200,
+                "median": 1800,
+                "max": 2400
+            }
+        },
+        {
+            "serviceType": "emergency_room",
+            "units": 1,
+            "billedAmount": 1200,
+            "typicalCost": {
+                "min": 800,
+                "median": 1000,
+                "max": 1500
+            }
+        },
+        {
+            "serviceType": "iv_fluids",
+            "units": 1,
+            "billedAmount": 250,
+            "typicalCost": {
+                "min": 50,
+                "median": 100,
+                "max": 200
+            }
+        },
+        {
+            "serviceType": "medication",
+            "units": 4,
+            "billedAmount": 80,
+            "typicalCost": {
+                "min": 10,
+                "median": 20,
+                "max": 40
+            }
+        },
+        {
+            "serviceType": "xray",
+            "units": 1,
+            "billedAmount": 650,
+            "typicalCost": {
+                "min": 200,
+                "median": 350,
+                "max": 500
+            }
+        },
+        {
+            "serviceType": "ct_scan",
+            "units": 1,
+            "billedAmount": 850,
+            "typicalCost": {
+                "min": 600,
+                "median": 800,
+                "max": 1200
+            }
+        },
+        {
+            "serviceType": "blood_test",
+            "units": 1,
+            "billedAmount": 900,
+            "typicalCost": {
+                "min": 300,
+                "median": 500,
+                "max": 700
+            }
+        },
+        {
+            "serviceType": "specialist_consultation",
+            "units": 1,
+            "billedAmount": 1200,
+            "typicalCost": {
+                "min": 400,
+                "median": 600,
+                "max": 900
+            }
+        },
+        {
+            "serviceType": "physician_visit",
+            "units": 2,
+            "billedAmount": 1600,
+            "typicalCost": {
+                "min": 400,
+                "median": 600,
+                "max": 800
+            }
+        },
+        {
+            "serviceType": "nursing_services",
+            "units": 1,
+            "billedAmount": 1000,
+            "typicalCost": {
+                "min": 300,
+                "median": 500,
+                "max": 700
+            }
+        },
+        {
+            "serviceType": "medical_supplies",
+            "units": 1,
+            "billedAmount": 270,
+            "typicalCost": {
+                "min": 50,
+                "median": 100,
+                "max": 150
+            }
+        },
+        {
+            "serviceType": "surgery",
+            "units": 1,
+            "billedAmount": 5000,
+            "typicalCost": {
+                "min": 3000,
+                "median": 4000,
+                "max": 6000
+            }
+        },
+        {
+            "serviceType": "anesthesia",
+            "units": 1,
+            "billedAmount": 800,
+            "typicalCost": {
+                "min": 400,
+                "median": 600,
+                "max": 900
+            }
+        },
+        {
+            "serviceType": "physical_therapy",
+            "units": 3,
+            "billedAmount": 450,
+            "typicalCost": {
+                "min": 100,
+                "median": 150,
+                "max": 200
+            }
+        },
+        {
+            "serviceType": "mri_scan",
+            "units": 1,
+            "billedAmount": 2500,
+            "typicalCost": {
+                "min": 1500,
+                "median": 2000,
+                "max": 3000
+            }
+        },
+        {
+            "serviceType": "ultrasound",
+            "units": 1,
+            "billedAmount": 400,
+            "typicalCost": {
+                "min": 200,
+                "median": 300,
+                "max": 500
+            }
+        },
+        {
+            "serviceType": "lab_work",
+            "units": 1,
+            "billedAmount": 350,
+            "typicalCost": {
+                "min": 150,
+                "median": 250,
+                "max": 400
+            }
+        },
+        {
+            "serviceType": "ecg",
+            "units": 1,
+            "billedAmount": 200,
+            "typicalCost": {
+                "min": 80,
+                "median": 120,
+                "max": 180
+            }
+        },
+        {
+            "serviceType": "ambulance",
+            "units": 1,
+            "billedAmount": 1500,
+            "typicalCost": {
+                "min": 800,
+                "median": 1200,
+                "max": 1800
+            }
+        },
+        {
+            "serviceType": "generic_procedure",
+            "units": 1,
+            "billedAmount": 500,
+            "typicalCost": {
+                "min": 200,
+                "median": 350,
+                "max": 600
+            }
+        }
+    ]
+}
